@@ -6,7 +6,7 @@
   <key>CFBundleDisplayName</key><string>Double Trouble</string>
   <key>CFBundleExecutable</key><string>Double Trouble Darts</string>
   <key>CFBundleIconFile</key><string>AppIcon</string>
-  <key>CFBundleIdentifier</key><string>works.magnetic.doubletroubledarts</string>
+  <key>CFBundleIdentifier</key><string>io.github.chiesu.doubletroubledarts</string>
   <key>CFBundleInfoDictionaryVersion</key><string>6.0</string>
   <key>CFBundleName</key><string>Double Trouble</string>
   <key>CFBundlePackageType</key><string>APPL</string>
