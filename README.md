@@ -8,7 +8,16 @@ The native macOS wrapper uses Swift + WebKit. The scoring app itself is local HT
 
 ## Download
 
-Visit [Releases](https://github.com/Chiesu/double-trouble-darts/releases/latest) for the experimental macOS `.app` archive or source-build installer.
+Download `Double-Trouble-Darts-v4.1-Mac-Source-Installer.zip` from [GitHub Releases](https://github.com/Chiesu/double-trouble-darts/releases/latest).
+
+This is a macOS source-build installer, not a precompiled or notarized application.
+
+1. Extract the downloaded ZIP.
+2. Open Terminal, navigate into the extracted folder, and run `zsh ./Install-or-Update.command`.
+3. Install Apple Command Line Tools if prompted.
+4. The script builds and installs the app in `~/Applications`.
+
+Existing player and club data is stored separately in `~/Library/Application Support/Double Trouble Darts/`. Back up this data before updating.
 
 **Option A: macOS app ZIP (CI build)**
 
