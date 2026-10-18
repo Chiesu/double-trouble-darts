@@ -8,7 +8,8 @@ See [README.md](README.md) for setup details and known limitations.
 
 ## Distribution
 
-macOS source-build installer plus an optional CI-built, ad-hoc-signed .app ZIP.
+macOS source-build installer.
+No precompiled or notarized .app is included in this release.
 
 ## Before publishing
 
