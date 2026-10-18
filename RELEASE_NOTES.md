@@ -13,7 +13,7 @@ No precompiled or notarized .app is included in this release.
 
 ## Before publishing
 
-- [ ] Install this exact release artifact on a clean machine or Blender profile.
+- [ ] Install this exact release artifact on a clean machine or Mac.
 - [ ] Verify core functionality and compatibility.
 - [ ] Confirm third-party media/code rights.
 - [ ] Check no secrets or personal data remain.
